@@ -11,3 +11,5 @@ look at possible length of tool lifecycle in their dormant period
 https://www.v3.co.uk/v3-uk/news/3016809/symantec-us-and-european-energy-companies-targeted-in-cyber-espionage-campaign
 
 https://www.v3.co.uk/v3-uk/news/2353208/dragonfly-hackers-preparing-for-stuxnet-level-strikes-on-critical-infrastructure
+
+http://www.securityweek.com/russia-linked-hackers-target-turkish-critical-infrastructure
