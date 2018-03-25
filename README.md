@@ -15,3 +15,5 @@ https://www.v3.co.uk/v3-uk/news/2353208/dragonfly-hackers-preparing-for-stuxnet-
 http://www.securityweek.com/russia-linked-hackers-target-turkish-critical-infrastructure
 
 https://www.us-cert.gov/ncas/alerts/TA17-293A
+
+https://www.darkreading.com/endpoint/privacy/russian-apt-compromised-cisco-router-in-energy-sector-attacks/d/d-id/1331306
