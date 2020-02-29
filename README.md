@@ -17,3 +17,5 @@ http://www.securityweek.com/russia-linked-hackers-target-turkish-critical-infras
 https://www.us-cert.gov/ncas/alerts/TA17-293A
 
 https://www.darkreading.com/endpoint/privacy/russian-apt-compromised-cisco-router-in-energy-sector-attacks/d/d-id/1331306
+
+https://thehackernews.com/2017/09/dragonfly-energy-hacking.html
