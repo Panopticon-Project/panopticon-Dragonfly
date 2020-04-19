@@ -19,3 +19,5 @@ https://www.us-cert.gov/ncas/alerts/TA17-293A
 https://www.darkreading.com/endpoint/privacy/russian-apt-compromised-cisco-router-in-energy-sector-attacks/d/d-id/1331306
 
 https://thehackernews.com/2017/09/dragonfly-energy-hacking.html
+
+https://www.zdnet.com/article/russian-state-hackers-behind-san-francisco-airport-hack/#ftag=RSSbaffb68
