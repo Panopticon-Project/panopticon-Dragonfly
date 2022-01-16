@@ -23,3 +23,5 @@ https://thehackernews.com/2017/09/dragonfly-energy-hacking.html
 https://www.zdnet.com/article/russian-state-hackers-behind-san-francisco-airport-hack/#ftag=RSSbaffb68
 
 https://securityaffairs.co/wordpress/109897/cyber-warfare-2/fbi-cisa-joint-alert-energetic-bear.html
+
+https://securelist.com/energetic-bear-crouching-yeti/85345/
