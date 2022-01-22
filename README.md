@@ -25,3 +25,5 @@ https://www.zdnet.com/article/russian-state-hackers-behind-san-francisco-airport
 https://securityaffairs.co/wordpress/109897/cyber-warfare-2/fbi-cisa-joint-alert-energetic-bear.html
 
 https://securelist.com/energetic-bear-crouching-yeti/85345/
+
+https://www.securityweek.com/five-threat-groups-target-industrial-systems-dragos
