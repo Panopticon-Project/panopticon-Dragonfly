@@ -27,3 +27,9 @@ https://securityaffairs.co/wordpress/109897/cyber-warfare-2/fbi-cisa-joint-alert
 https://securelist.com/energetic-bear-crouching-yeti/85345/
 
 https://www.securityweek.com/five-threat-groups-target-industrial-systems-dragos
+
+https://www.cyberscoop.com/german-intelligence-memo-berserk-bear-critical-infrastructure/
+
+https://theintercept.com/2020/12/17/russia-hack-austin-texas/
+
+https://www.wired.com/story/berserk-bear-russia-infrastructure-hacking/
