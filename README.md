@@ -33,3 +33,5 @@ https://www.cyberscoop.com/german-intelligence-memo-berserk-bear-critical-infras
 https://theintercept.com/2020/12/17/russia-hack-austin-texas/
 
 https://www.wired.com/story/berserk-bear-russia-infrastructure-hacking/
+
+https://therecord.media/german-prosecutors-issue-warrant-for-russian-hacker-over-energy-sector-attacks/
