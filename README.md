@@ -35,3 +35,5 @@ https://theintercept.com/2020/12/17/russia-hack-austin-texas/
 https://www.wired.com/story/berserk-bear-russia-infrastructure-hacking/
 
 https://therecord.media/german-prosecutors-issue-warrant-for-russian-hacker-over-energy-sector-attacks/
+
+https://www.justice.gov/opa/pr/four-russian-government-employees-charged-two-historical-hacking-campaigns-targeting-critical
