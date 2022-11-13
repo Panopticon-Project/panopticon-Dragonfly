@@ -37,3 +37,5 @@ https://www.wired.com/story/berserk-bear-russia-infrastructure-hacking/
 https://therecord.media/german-prosecutors-issue-warrant-for-russian-hacker-over-energy-sector-attacks/
 
 https://www.justice.gov/opa/pr/four-russian-government-employees-charged-two-historical-hacking-campaigns-targeting-critical
+
+https://www.microsoft.com/en-us/security/blog/2022/11/10/microsoft-threat-intelligence-presented-at-cyberwarcon-2022/
